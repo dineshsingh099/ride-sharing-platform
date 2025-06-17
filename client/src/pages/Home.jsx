@@ -28,10 +28,10 @@ function Home() {
 				</ul>
 
 				<div className="nav-btns">
-					<a href="#" className="btn btn-primary">
+					<a href="/signup" className="btn btn-primary">
 						Sign Up
 					</a>
-					<a href="#" className="btn btn-secondary">
+					<a href="/login" className="btn btn-secondary">
 						Login
 					</a>
 				</div>
